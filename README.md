@@ -2,9 +2,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rei-doda&theme=transparent&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue)
 
 **🐱 My GitHub Data** 
 
@@ -43,13 +43,17 @@ Sunday                   2 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 34 mins        ████████████████████░░░░░   78.66 % 
+Markdown                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 50 mins        ███████████████████████░░   92.81 % 
+Sublime Text             8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ldv                      1 hr 34 mins        ████████████████████░░░░░   78.66 % 
+rei-doda                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
 ```
 
 **I Mostly Code in C** 
@@ -64,5 +68,5 @@ Java                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 2023-06-04 UTC
+ Last Updated on 2023-06-05 UTC
 <!--END_SECTION:waka-->
