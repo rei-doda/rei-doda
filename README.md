@@ -43,14 +43,13 @@ Sunday                   2 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-progetto2223-bernerslee  6 mins              ███████████████████░░░░░░   74.37 % 
-battaglia-navale         2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -65,5 +64,5 @@ Java                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 2023-06-22 UTC
+ Last Updated on 2023-06-23 UTC
 <!--END_SECTION:waka-->
