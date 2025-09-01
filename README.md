@@ -2,15 +2,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rei-doda&theme=transparent&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 185.6 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,16 +43,13 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 31 mins        ████████████████████████░   96.76 % 
-Dart                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Java                     1 hr 49 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Sublime Text             1 hr 31 mins        ████████████████████████░   96.76 % 
-VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Sublime Text             1 hr 49 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise                 1 hr 31 mins        ████████████████████████░   96.76 % 
-bs-logistics             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+exercise                 1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -68,5 +65,5 @@ C++                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 2025-08-31 UTC
+ Last Updated on 2025-09-01 UTC
 <!--END_SECTION:waka-->
