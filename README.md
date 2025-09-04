@@ -2,7 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rei-doda&theme=transparent&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,13 +41,13 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 56 mins        █████████████████████████   100.00 % 
+Java                     2 hrs 24 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Sublime Text             1 hr 56 mins        █████████████████████████   100.00 % 
+Sublime Text             2 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise                 1 hr 56 mins        █████████████████████████   100.00 % 
+exercise                 2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -63,5 +63,5 @@ C++                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 2025-09-03 UTC
+ Last Updated on 2025-09-04 UTC
 <!--END_SECTION:waka-->
