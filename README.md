@@ -1,5 +1,5 @@
-![rei-doda's GitHub stats](https://github-readme-stats.vercel.app/api?username=rei-doda&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rei-doda&theme=chartreuse-dark&layout=compact)
+![rei-doda's GitHub stats](https://github-readme-stats.vercel.app/api?username=rei-doda&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rei-doda&theme=tokyonight&layout=compact)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
