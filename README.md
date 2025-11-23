@@ -1,3 +1,9 @@
+<h1 align="left">Hi there 👋 <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> </h1>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rei-doda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rei Doda's GitHub Trophies" />
+</p>
+
 ![rei-doda's GitHub stats](https://github-readme-stats.vercel.app/api?username=rei-doda&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rei-doda&theme=tokyonight&layout=compact)
 
